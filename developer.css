@@ -1,0 +1,93 @@
+body{
+    font-family: 'Noto Serif', serif;
+    background-color: #F4F8FF;
+}
+
+
+/* container section style style*/
+.container{
+    background-color: white;
+    width:90%;
+     margin:0px auto;
+     box-sizing: border-box;
+}
+/* container section style end*/
+
+
+
+/*header section start*/
+header{
+    text-align: center;
+}
+
+
+.logo{
+    width: 200px;
+
+}
+
+/*header section start*/
+
+hr{
+    font-weight: bold;
+    border:3px sienna solid;
+    border-bottom: none;
+}
+
+/* main style start*/
+
+.banner{
+  margin-left:40px;
+    padding: 10px;
+    width:1100px;
+}
+
+.fast-para{
+    text-align: justify;
+    padding:0px 50px ;
+}
+
+.iframe{
+    padding:0px 200px ;
+}
+h3{
+    text-align: center;
+}
+
+.hyperlink{
+    padding: 10px;
+}
+
+ul li a{
+
+    color: #3776FF;
+}
+
+ul li{
+    padding:10px;
+}
+
+ul li a:hover{
+    color: red;
+}
+
+.last{
+    padding:10px;
+
+}
+
+footer{
+    text-align: center;
+}
+
+
+/* main style end*/
+
+
+
+
+
+
+
+
+
